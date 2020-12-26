@@ -62,13 +62,6 @@ img{
     .right{
         grid-area: right;
     }
-    /* .img-div{
-        display: flex;
-    flex-direction: column; 
-    align-items:start;
-    justify-content: center;
-        background-color: chartreuse;
-    } */
     img{
         width: 100%;
         height: 300px;
