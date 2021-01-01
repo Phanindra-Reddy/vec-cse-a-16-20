@@ -43,6 +43,15 @@ img{
     border-radius: 15px;
 }
 
+/* Happy New Year */
+.modal-title{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: 600;
+    font-size: 2rem;
+    color: rgba(242, 38, 19, 1);
+}
+
 @media (max-width:576px){
     .intro-div{
         grid-template-areas: 
